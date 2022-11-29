@@ -1,10 +1,3 @@
-"""
-
-3*np.ones([1,7200,1])
-
-@author: Ryandhimas Zezario
-ryandhimas@citi.sinica.edu.tw
-"""
 
 import os, sys
 import matplotlib
